@@ -26,7 +26,7 @@
 
 | Team              | Repository                                                                                             |
 |-------------------|--------------------------------------------------------------------------------------------------------|
-| [Ctrlf Team]()    | [video-ctrlf-introduce]()                                                                              |
+| [Ctrlf Team]()    | [video-ctrlf-introduce](https://github.com/Video-CtrlF/video-ctrlf-introduce)                                                                              |
 | [AI Team]()       | [video-ctrlf-ai]()                                                                                     |
 | [Frontend Team]() | [video-ctrlf-fe-chrome-extensions](https://github.com/hackathon-AIVLE/video-ctrl-f-chrome-extensions)  |
 | [Backend Team]()  | [video-ctrlf-be-web]()                                                                                 |
